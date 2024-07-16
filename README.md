@@ -52,7 +52,7 @@
 ## Download 📥
 
 <div align="center">
-<a href="(releases/latest/)"><img src="assets/github.png" width="50%" alt="Get it on GitHub" /></a>
+<a href="(releases/latest)"><img src="assets/github.png" width="50%" alt="Get it on GitHub" /></a>
 
 <div align="center">
   <a href="https://apt.izzysoft.de/fdroid/index/apk/in.hridayan.ashell"><img src="assets/fdroid.png" width="49%" alt="Get it on F-Droid" /></a>
