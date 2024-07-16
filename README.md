@@ -52,7 +52,7 @@
 ## Download 📥
 
 <div align="center">
-<a href="https://github.com/DP-Hridayan/aShellYou/releases/latest/"><img src="assets/github.png" width="50%" alt="Get it on GitHub" /></a>
+<a href="[releases/latest/](https://github.com/DP-Hridayan/aShellYou/releases)"><img src="assets/github.png" width="50%" alt="Get it on GitHub" /></a>
 
 <div align="center">
   <a href="https://apt.izzysoft.de/fdroid/index/apk/in.hridayan.ashell"><img src="assets/fdroid.png" width="49%" alt="Get it on F-Droid" /></a>
@@ -85,7 +85,9 @@
 | Task                   | Status   |
 |------------------------|----------|
 | Wifi ADB Feature       | ⬜ To Do  |
+| Implement root shell   | ⬜ To Do  |
 | Redesigning Homepage   | ⬜ To Do  |
+| Proper localization    | ⬜ To Do  |
 | Fix OTG Issue          | ✅ Done  |
 
 </br>
