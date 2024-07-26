@@ -1,0 +1,4 @@
+
+• Fixed some issues in OTG adb support
+
+• Updated translations
